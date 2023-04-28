@@ -8,4 +8,4 @@ A new image of a randomly generated credit card is displayed every time we run t
 
 
 
-<img width="497" alt="Screenshot 2023-04-28 at 13 30 02" src="https://user-images.githubusercontent.com/126245553/235136285-7ffdbe4b-b69c-4d29-844b-9a8a48ec5740.png">
+<img width="497" align="center" alt="Screenshot 2023-04-28 at 13 30 02" src="https://user-images.githubusercontent.com/126245553/235136285-7ffdbe4b-b69c-4d29-844b-9a8a48ec5740.png">
